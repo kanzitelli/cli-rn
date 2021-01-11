@@ -28,7 +28,7 @@ Once you install the **cli-rn app**, you should `cd` to the root of an app you d
 
 ```
 > cd AppName
-> cli-rn remote:dev # DEV mode, don't forget to run 'yarn start' before
+> cli-rn remote:dev # DEV mode (don't forget to run 'yarn start' before)
 > cli-rn remote:prod # PROD mode
 ```
 The steps above can take some time when doing it for the first time.
