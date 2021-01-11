@@ -57,6 +57,6 @@ You may come up with the questions like `Why?` and `What for?` if there is [Expo
 
 I have been developing the app ([Christmas Market](https://apps.apple.com/ru/app/id1446775875)) recently with [react-native-navigation](https://github.com/wix/react-native-navigation) and it contains some cool animations. As animations (anyways) lag in dev mode, I had to launch the app in release mode a few times in an hour to test animations' smoothness. And I got bored of waiting and decided to start a research on how I can automate this process. Plus, we can see that it is possible and done by Expo.
 
-💚 Thanks to [React Native](https://reactnative.dev).
-💙 Thanks to [Expo](https://expo.io) for insipration
-❤️ Thanks to [Wix team](https://github.com/wix) for initiating [react-native-navigation](https://github.com/wix/react-native-navigation) and all contributors for maintaining it
+- 💚 Thanks to [React Native](https://reactnative.dev).
+- 💙 Thanks to [Expo](https://expo.io) for insipration
+- ❤️ Thanks to [Wix team](https://github.com/wix) for initiating [react-native-navigation](https://github.com/wix/react-native-navigation) and all contributors for maintaining it
