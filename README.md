@@ -19,8 +19,11 @@ In order to start testing an app you develop on your local machine, you will nee
 Once you install the **cli-rn app**, you should `cd` to the root of an app you develop.
 
 > There are two modes: `DEV` and `PROD`.
+
 > When testing in `DEV` mode, you need to have Metro bundler running (`yarn start`) as **cli-rn** relies on it when exposing tunnel.
+
 > When testing in `PROD` mode, **cli-rn** generates an app bundle and exposes tunnel to that file.
+
 > For more "Things to be aware of", please check the **[following section](https://github.com/kanzitelli/cli-rn-app#things-to-be-aware-of)**.
 
 ```
