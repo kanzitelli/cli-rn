@@ -63,3 +63,7 @@ I have been developing the app ([Christmas Market](https://apps.apple.com/ru/app
 - 💚 Thanks to [React Native](https://reactnative.dev)
 - 💙 Thanks to [Expo](https://expo.io) for insipration
 - ❤️ Thanks to [Wix team](https://github.com/wix) for initiating [react-native-navigation](https://github.com/wix/react-native-navigation) and all contributors for maintaining it
+
+### Worth checking
+#### Articles
+- cli-rn — making RN app developing experience as smooth as possible - [Medium](https://kanzitelli.medium.com/cli-rn-making-rn-app-developing-experience-as-smooth-as-possible-1022aae3a0d3), [Dev.to](https://dev.to/kanzitelli/cli-rn-making-rn-app-developing-experience-as-smooth-as-possible-4e98)
