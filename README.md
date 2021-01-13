@@ -38,8 +38,12 @@ Once you install the **cli-rn app**, you should `cd` to the root of an app you d
 The steps above can take some time when doing it for the first time.
 
 After it's done, you should see something like on the image below
-<img src="https://i.postimg.cc/m2gpGbRM/Screenshot-2021-01-11-at-20-39-29.png" width="100%" title="AppCodeCLI">
 The generated `App Code` has to be put in **cli-rn app** as shown [here](https://github.com/kanzitelli/cli-rn-app#app-interface).
+
+<img src="https://i.postimg.cc/59HxG6N2/Screenshot-2021-01-13-at-16-45-53.png" width="100%" title="cliresult">
+<img src="https://i.postimg.cc/L5GGK9Dq/gifgif.gif" width="40%" title="AppInterface">
+
+[HD video](https://www.youtube.com/embed/ESxQc3wQUAw)
 
 Happy testing! 🤙
 
