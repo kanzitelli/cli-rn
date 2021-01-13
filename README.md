@@ -1,5 +1,9 @@
 <img src="https://i.postimg.cc/3J7cRXTs/cli-rn-gif.gif" width="100%" title="Logo">
 
+<a href="https://apps.apple.com/app/id1548165379" target="_blank">
+<img src="https://i.postimg.cc/Z5tSBHSG/app-store-badge.png" width="30%" title="AppStore">
+</a>
+
 > Currently in very `alpha` stage and under heavy testing. Available for iOS only.
 
 Purpose of [cli-rn](https://github.com/kanzitelli/cli-rn) is to simplify and accelerate the process of app development.
