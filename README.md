@@ -17,7 +17,7 @@ Purpose of [cli-rn](https://github.com/kanzitelli/cli-rn) is to simplify and acc
 ```
 It generates a new production-ready app bootstrapped from [rnn-starter](https://github.com/kanzitelli/rnn-starter).
 
-### Testing
+### Testing [not available now :(]
 In order to start testing an app you develop on your local machine, you will need a real device to install **[cli-rn app](https://github.com/kanzitelli/cli-rn-app)** in Release mode. Follow the steps on **[cli-rn app](https://github.com/kanzitelli/cli-rn-app)** page.
 
 Once you install the **cli-rn app**, you should `cd` to the root of an app you develop.
