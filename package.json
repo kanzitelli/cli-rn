@@ -1,6 +1,6 @@
 {
   "name": "cli-rn",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "description": "CLI aiming to make React Native Apps developing experience as smooth as possible. Not a replacer for react-native cli but a good addition!",
   "author": "Batyr <dev@batyr.io>",
   "homepage": "https://github.com/kanzitelli/cli-rn",
