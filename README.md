@@ -23,7 +23,7 @@ For [React Native Navigation](https://github.com/wix/react-native-navigation) (b
 For [React Navigation](https://github.com/wix/react-native-navigation) (w/out Expo) setup:
 
 ```bash
-> cli-rn new App -t rnn
+> cli-rn new App -t rn
 ```
 
 Example with all possible options:
