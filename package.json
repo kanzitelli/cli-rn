@@ -5,6 +5,9 @@
   "author": "Batyr <dev@batyr.io>",
   "homepage": "https://github.com/kanzitelli/cli-rn",
   "private": false,
+  "scripts": {
+    "release": "dotenv release-it"
+  },
   "devDependencies": {
     "dotenv-cli": "^4.0.0",
     "release-it": "^14.11.5"
