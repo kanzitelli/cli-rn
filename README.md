@@ -14,13 +14,13 @@ Purpose of [cli-rn](https://github.com/kanzitelli/cli-rn) is to simplify and acc
 
 It will generate a new production-ready Expo (React Native) App bootstrapped from [expo-starter](https://github.com/kanzitelli/expo-starter).
 
-For [React Native Navigation](https://github.com/wix/react-native-navigation) (by Wix), use:
+For [React Native Navigation](https://github.com/wix/react-native-navigation) (by Wix) setup:
 
 ```bash
 > cli-rn new App -t rnn
 ```
 
-For [React Navigation](https://github.com/wix/react-native-navigation) (w/out Expo), use:
+For [React Navigation](https://github.com/wix/react-native-navigation) (w/out Expo) setup:
 
 ```bash
 > cli-rn new App -t rnn
