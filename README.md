@@ -29,7 +29,7 @@ For [React Navigation](https://github.com/wix/react-native-navigation) (w/out Ex
 Example with all possible options:
 
 ```bash
-> cli-rn new App -b com.company.App -t rn
+> cli-rn new App -b com.company.App -t expo
 ```
 
 ### > cli-rn new --help
