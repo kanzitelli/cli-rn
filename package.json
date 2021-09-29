@@ -1,0 +1,13 @@
+{
+  "name": "cli-rn",
+  "version": "0.0.4",
+  "description": "CLI aiming to make React Native Apps developing experience as smooth as possible. Not a replacer for react-native cli but a good addition!",
+  "author": "Batyr <dev@batyr.io>",
+  "homepage": "https://github.com/kanzitelli/cli-rn",
+  "private": false,
+  "devDependencies": {
+    "dotenv-cli": "^4.0.0",
+    "release-it": "^14.11.5"
+  },
+  "license": "MIT"
+}
